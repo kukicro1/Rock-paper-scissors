@@ -115,3 +115,4 @@ if (user > computer){
     }
 }
 game();
+alert("ovo je kraj")
